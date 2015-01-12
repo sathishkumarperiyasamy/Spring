@@ -12,8 +12,11 @@ public class Test1 {
 
 	}
 	
+<<<<<<< HEAD
 	
 	public void new2Method(){
 
 	}
+=======
+>>>>>>> branch 'master' of https://github.com/sathishkumarperiyasamy/Spring.git
 }
