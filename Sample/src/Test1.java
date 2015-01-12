@@ -1,8 +1,5 @@
 public class Test1 {
 
-	public void newMethod(){
-
-	}
 	public void new1Method(){
 
 	}
@@ -15,11 +12,10 @@ public class Test1 {
 		
 	}
 	
-	public void new3Method(){
+	public void new4Method(){
 		
 	}
-	
-	public void new4Method(){
+	public void new3Method(){
 		
 	}
 	
