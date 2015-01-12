@@ -15,9 +15,6 @@ public class Test1 {
 	public void new4Method(){
 		
 	}
-	public void new3Method(){
-		
-	}
-	
+
 
 }
