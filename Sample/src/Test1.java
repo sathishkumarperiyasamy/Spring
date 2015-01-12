@@ -8,12 +8,9 @@ public class Test1 {
 
 	}
 	
-	public void new1Method(){
-
-	}
-	
 	public void new2Method(){
 
 	}
-		
+	
+
 }
