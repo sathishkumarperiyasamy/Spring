@@ -8,10 +8,7 @@ public class Test1 {
 
 	}
 	
-	public void new2Method(){
 
-	}
-	
 	public void new3Method(){
 
 	}
