@@ -12,5 +12,9 @@ public class Test1 {
 
 	}
 	
+	public void new1Method(){
+		
+	}
+	
 
 }
