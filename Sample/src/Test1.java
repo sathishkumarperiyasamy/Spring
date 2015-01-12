@@ -8,5 +8,9 @@ public class Test1 {
 
 	}
 	
+	public void new2Method(){
+
+	}
+	
 
 }
