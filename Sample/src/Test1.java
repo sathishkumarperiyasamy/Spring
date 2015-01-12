@@ -8,6 +8,10 @@ public class Test1 {
 
 	}
 	
+	public void new3Method(){
+
+	}
+	
 
 
 
